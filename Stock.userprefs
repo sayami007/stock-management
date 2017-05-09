@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{10D1EC98-7308-4276-823F-B2EF0E716092}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="packages/Microsoft.Net.Compilers.1.3.2/tools/Microsoft.CSharp.Core.targets">
+    <Files>
+      <File FileName="Stock/Stock.csproj" Line="212" Column="66" />
+      <File FileName="packages/Microsoft.Net.Compilers.1.3.2/tools/Microsoft.CSharp.Core.targets" Line="146" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Stock PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
